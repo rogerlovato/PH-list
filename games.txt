@@ -1195,7 +1195,7 @@ xbxparadise.fr
 xsts.auth.xboxlive.com
 zh-cn.socialclub.rockstargames.com
 zh.socialclub.rockstargames.com
-*.epicgames.com
 famatech.com
 (\.|^)discord\.com$
 (\.|^)famatech\.com$
+(\.|^)epicgames\.com$
