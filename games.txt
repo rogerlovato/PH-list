@@ -1196,6 +1196,4 @@ xsts.auth.xboxlive.com
 zh-cn.socialclub.rockstargames.com
 zh.socialclub.rockstargames.com
 famatech.com
-(\.|^)discord\.com$
-(\.|^)famatech\.com$
-(\.|^)epicgames\.com$
+media.discordapp.net
