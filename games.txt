@@ -1193,3 +1193,4 @@ xbxparadise.fr
 xsts.auth.xboxlive.com
 zh-cn.socialclub.rockstargames.com
 zh.socialclub.rockstargames.com
+www.discord.com
