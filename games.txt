@@ -1,3 +1,4 @@
+api.minecraftservices.com
 account-public-service-prod.ol.epicgames.com
 api.epicgames.dev
 2game.com
